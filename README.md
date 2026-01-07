@@ -22,7 +22,7 @@ Power Query for data cleaning and transformation.
 DAX for measures like total sales, profit margins, and KPIs.
 
 ## Dataset
-Assumed sample e-commerce data covering 2025 sales with columns for Date, State, Sub-Category, Payment Type, Sales Amount, Profit, Quantity, and Customer details. Update with your CSV/Excel file via Get Data.
+Assumed sample e-commerce data covering 2025 sales with columns for Date, State, Sub-Category, Payment Type, Sales Amount, Profit, Quantity, and Customer details. Update with CSV/Excel file via Get Data.
 
 ## Screenshots
 
