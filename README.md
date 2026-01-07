@@ -42,9 +42,9 @@ Assumed sample e-commerce data covering 2025 sales with columns for Date, State,
 
 ![E-Commerce Sales Dashboard 2025](https://drive.google.com/uc?export=view&id=1fBO6hN11savCnZPRT3vyCF4JRprfxu4u)
 
-![E-Commerce Sales Dashboard 2025](https://drive.google.com/uc?export=view&id=YOUR-FILE-ID)[file:2]
+![Andhra Pradesh Sales](https://drive.google.com/uc?export=view&id=19giRwYMgDFKofQyYU1ssijMq81nfbrJ1)
 
-![E-Commerce Sales Dashboard 2025](https://drive.google.com/uc?export=view&id=YOUR-FILE-ID)[file:2]
+![Quarter 1 Sales](https://drive.google.com/uc?export=view&id=1uSURgIspqX_NPte-gYKpQ4XIx0UBCL_x)
 
 
 
