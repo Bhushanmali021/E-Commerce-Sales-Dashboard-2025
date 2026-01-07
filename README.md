@@ -1,12 +1,12 @@
-## E-Commerce-Sales-Dashboard-2025
+# E-Commerce-Sales-Dashboard-2025
 This Power BI project creates an interactive dashboard for analyzing e-commerce sales performance in 2025, featuring quarterly breakdowns, profit metrics, customer segments, payment methods, and sub-category insights.
 
-# Project Overview
+## Project Overview
 The dashboard visualizes key metrics like total sales (37%, 56%, 43%, 12% across Q1-Q4), profit by month and sub-category (e.g., Furniture, Clothing, Accessories), customer distribution by state (e.g., Maharashtra, Delhi, Uttar Pradesh), and payment splits (Debit 13%, Credit 34%).​
 
 It enables stakeholders to track sales trends, regional performance, and profitability for data-driven decisions.
 
-# 📊 Key Visualizations & Features
+## 📊 Key Visualizations & Features
 
 | Visualization | Description | Key Metrics | 🎯 Highlights |
 |---------------|-------------|-------------|--------------|
@@ -16,12 +16,12 @@ It enables stakeholders to track sales trends, regional performance, and profita
 | **🗺️ Customer Count by State Column Chart** | Highlights **top states** like **Maharashtra** | Maharashtra, Delhi, UP, Bihar | **Regional Leaders** [file:2] |
 | **🏪 Profit by Sub-Category Column Chart** | Compares **Furniture, Clothing, Accessories**, etc. | Furniture (top), Clothing, Electronics | **Category Performance** [file:2] |
 
-# Technologies Used
+## Technologies Used
 Power BI Desktop for dashboard creation and interactivity.​
 Power Query for data cleaning and transformation.
 DAX for measures like total sales, profit margins, and KPIs.
 
-# How to Use
+## How to Use
 
 1. Download or clone the repository.
 
@@ -33,15 +33,15 @@ DAX for measures like total sales, profit margins, and KPIs.
 
 6. Publish to Power BI Service for sharing and embedding
 
-# Dataset
+## Dataset
 Assumed sample e-commerce data covering 2025 sales with columns for Date, State, Sub-Category, Payment Type, Sales Amount, Profit, Quantity, and Customer details. Update with your CSV/Excel file via Get Data.
 
-# Screenshots
+## Screenshots
 
 
 
 
-# Learnings
+## Learnings
 
 1. Built interactive slicers for dynamic filtering by quarter, state, and category.
 ​
@@ -49,7 +49,7 @@ Assumed sample e-commerce data covering 2025 sales with columns for Date, State,
 ​
 3. Optimized DAX for KPIs like YTD Profit and Sales Growth, enhancing business intelligence skills.
 ​
-# Future Enhancements
+## Future Enhancements
 
 1. Integrate real-time data from sources like AWS or SQL databases.
 
