@@ -14,24 +14,12 @@ It enables stakeholders to track sales trends, regional performance, and profita
 | **💳 Payment Method Pie Chart** | Breaks down **Debit Card (13%)** and **Credit Card (34%)** | Debit:13%, Credit:34% | **Credit Card Dominance** [file:2] |
 | **📈 Profit by Month Bar Chart** | Shows **trends across months** with dynamic filtering | Monthly profit KPIs | **Trend Analysis** [file:2] |
 | **🗺️ Customer Count by State Column Chart** | Highlights **top states** like **Maharashtra** | Maharashtra, Delhi, UP, Bihar | **Regional Leaders** [file:2] |
-| **🏪 Profit by Sub-Category Column Chart** | Compares **Furniture, Clothing, Accessories**, etc. | Furniture (top), Clothing, Electronics | **Category Performance** [file:2] |
+| **🏪 Profit by Sub-Category Column Chart** | Compares **Furniture, Clothing, Accessories**, etc. | Furniture (top), Clothing, Electronics | **Category Performance** |
 
 ## Technologies Used
 Power BI Desktop for dashboard creation and interactivity.​
 Power Query for data cleaning and transformation.
 DAX for measures like total sales, profit margins, and KPIs.
-
-## How to Use
-
-1. Download or clone the repository.
-
-3. Open E-Commerce_Sales_Dashboard_2025.pbix in Power BI Desktop.
-
-4. Refresh data connections if sample dataset provided (e.g., Excel/CSV sales data).
-
-5. Interact with slicers for quarters, states (e.g., Maharashtra, Delhi, Bihar, Gujarat), and filters.
-
-6. Publish to Power BI Service for sharing and embedding
 
 ## Dataset
 Assumed sample e-commerce data covering 2025 sales with columns for Date, State, Sub-Category, Payment Type, Sales Amount, Profit, Quantity, and Customer details. Update with your CSV/Excel file via Get Data.
