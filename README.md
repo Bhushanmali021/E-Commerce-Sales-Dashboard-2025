@@ -24,9 +24,7 @@ DAX for measures like total sales, profit margins, and KPIs.
 ## Dataset
 Assumed sample e-commerce data covering 2025 sales with columns for Date, State, Sub-Category, Payment Type, Sales Amount, Profit, Quantity, and Customer details. Update with CSV/Excel file via Get Data.
 
-## Screenshots
-
- *Dashboard Screenshots*
+## Dashboard Screenshots
 
 ![E-Commerce Sales Dashboard 2025](https://drive.google.com/uc?export=view&id=1fBO6hN11savCnZPRT3vyCF4JRprfxu4u)
 
