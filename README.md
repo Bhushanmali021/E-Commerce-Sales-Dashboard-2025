@@ -38,6 +38,15 @@ Assumed sample e-commerce data covering 2025 sales with columns for Date, State,
 
 ## Screenshots
 
+ *Dashboard Screenshots*
+
+![E-Commerce Sales Dashboard 2025](https://drive.google.com/uc?export=view&id=1fBO6hN11savCnZPRT3vyCF4JRprfxu4u)
+
+![E-Commerce Sales Dashboard 2025](https://drive.google.com/uc?export=view&id=YOUR-FILE-ID)[file:2]
+
+![E-Commerce Sales Dashboard 2025](https://drive.google.com/uc?export=view&id=YOUR-FILE-ID)[file:2]
+
+
 
 
 
